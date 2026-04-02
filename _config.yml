@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Henry E. Steffen"
-resume_title:                   "Undergrad Student"
+resume_title:                   "Undergraduate Mechanical Engineering and Areospace Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "henry.steffen@gwmail.gwu.edu"
